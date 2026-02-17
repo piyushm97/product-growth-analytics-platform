@@ -28,5 +28,14 @@ Acted as Product Manager:
 - Prioritized features using RICE
 - Designed experimentation strategy
 - Outlined technical architecture
+## 📊 Active Users Growth
+
+```mermaid
+xychart-beta
+    title "Monthly Active Users Growth"
+    x-axis ["Jan", "Feb", "Mar", "Apr", "May", "Jun"]
+    y-axis "Users" 0 --> 3500
+    line [1200, 1500, 1800, 2100, 2600, 3200]
+```
 
 ---
