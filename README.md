@@ -37,5 +37,19 @@ xychart-beta
     y-axis "Users" 0 --> 3500
     line [1200, 1500, 1800, 2100, 2600, 3200]
 ```
+```mermaid
+xychart-beta
+    title "Report Generation Time Reduction"
+    x-axis ["Jan", "Feb", "Mar", "Apr", "May", "Jun"]
+    y-axis "Minutes" 0 --> 50
+    line [45, 40, 35, 30, 25, 20]
+```
+```mermaid
+xychart-beta
+    title "Operational Efficiency Rate"
+    x-axis ["Jan", "Feb", "Mar", "Apr", "May", "Jun"]
+    y-axis "Efficiency %" 0 --> 100
+    line [72, 75, 78, 82, 88, 91]
+```
 
 ---
